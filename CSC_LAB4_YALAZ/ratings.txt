@@ -1,0 +1,16 @@
+Member, Rating, Crew, Date, Gender, Age, Demographics
+101, 5.0, No, 01/10, M, 40, USA
+102, 4.0, No, 01/10, F, 43, USA
+106, 3.5, Yes, 01/11, F, 18, Global
+100, 4.0, No, 01/12, M, 23, USA
+111, 5.0, Yes, 01/12, M, 25, USA
+118, 2.0, No, 01/13, M, 19, Global
+131, 3.5, Yes, 01/13, F, 49, USA
+103, 5.0, No, 01/13, M, 72, USA
+107, 4.0, No, 01/13, F, 19, USA
+105, 1.0, Yes, 01/14, F, 37, USA
+120, 8.0, Yes, 1/15, F, 35, USA
+121, 7.0, No, 1/15, M, 50, Global
+122, 7.0, No, 1/15, F, 46, Global
+123, 8.0, Yes, 1/15, M, 55, USA
+124, 7.0, No, 1/15, F, 30, USA
